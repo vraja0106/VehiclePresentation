@@ -6,7 +6,7 @@
 	<artifactId>PresentationMarch08inEC2</artifactId>
 	<packaging>war</packaging>
 	<version>01</version>
-	<name>PresentationMarch08inEC2</name>
+	<name>${project.artifactId}</name>
 	<properties>
 		<org.springframework.version>3.2.1.RELEASE</org.springframework.version>
 		<hibernate.version>3.6.10.FINAl</hibernate.version>
@@ -227,6 +227,23 @@
 							<cargo.server.settings>tomcat7_local</cargo.server.settings>
 						</properties>
 					</configuration>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>com.mindtree.maven</groupId>
+				<artifactId>amazon-maven-plugin</artifactId>
+				<version>0.0.1</version>
+				<configuration>
+					<secretKey>${secret.key}</secretKey>
+					<accessKey>${access.key}</accessKey>
+					<proxyHost>${proxyHost}</proxyHost>
+					<proxyPort>${proxyPort}</proxyPort>
+					<buckets>
+						<property>
+							<name>vikesh-vehicle-rental/presentation</name>
+							<value>**/target/*.war;private</value>
+						</property>
+					</buckets>
 				</configuration>
 			</plugin>
 		</plugins>
