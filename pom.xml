@@ -240,7 +240,7 @@
 					<proxyPort>${proxyPort}</proxyPort>
 					<buckets>
 						<property>
-							<name>vikesh-vehicle-rental/presentation</name>
+							<name>srini-vehicle-rental/presentation</name>
 							<value>**/target/*.war;private</value>
 						</property>
 					</buckets>
