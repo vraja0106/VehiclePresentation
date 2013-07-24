@@ -68,7 +68,7 @@
 		<br />
 
 		<h4>
-			<label class="label" id="user_name">Username:</label> <input
+			<label class="label" id="user_name">Username:(CaSeInSensiTive)</label> <input
 				type="text" id="user_name_value" name="username" class="inputbox"
 				title="username" /> <br /> <label class="label" id="static_msg"
 				style="color: pink">(Case Sensitive)</label>
