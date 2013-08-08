@@ -24,7 +24,7 @@
 			valid = false;
 		}
 		if (pass == "") {
-			msg = "Please Enter Password (Case Sensitive)";
+			msg = "Please Enter Password";
 			valid = false;
 		}
 		if (user == "" && pass == "") {
