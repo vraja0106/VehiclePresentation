@@ -73,7 +73,7 @@
 				style="color: pink">(Case Sensitive)</label>
 		</h4>
 		<h4>
-			<label id="password" class="label">Password:</label> <input
+			<label id="password" class="label">Password:(Case Sensitive)</label> <input
 				type="password" name="password" class="inputbox" id="password_value"
 				title="password" /> <br /> <label class="label" id="static_msg"
 				style="color: pink">(Case Sensitive)</label>
