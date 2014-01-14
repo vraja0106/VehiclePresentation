@@ -62,7 +62,7 @@
 		onsubmit="return validate()">
 
 		<div id="login_head">
-			<h2>Login</h2> Change Test
+			<h2>Login</h2>
 		</div>
 		<br />
 
