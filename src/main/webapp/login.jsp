@@ -67,13 +67,13 @@
 		<br />
 
 		<h4>
-			<label class="label" id="user_name"></label> <input
+			<label class="label" id="user_name">Username::</label> <input
 				type="text" id="user_name_value" name="username" class="inputbox"
 				title="username" /> <br /> <label class="label" id="static_msg"
 				style="color: pink">(Not Case Sensitive)</label>
 		</h4>
 		<h4>
-			<label id="password" class="label">Password:</label> <input
+			<label id="password" class="label">Password::</label> <input
 				type="password" name="password" class="inputbox" id="password_value"
 				title="password" /> <br /> <label class="label" id="static_msg"
 				style="color: pink">(Case Sensitive)</label>
