@@ -70,7 +70,7 @@
 			<label class="label" id="user_name"></label> <input
 				type="text" id="user_name_value" name="username" class="inputbox"
 				title="username" /> <br /> <label class="label" id="static_msg"
-				style="color: pink">(Case Sensitive)</label>
+				style="color: pink">(Not Case Sensitive)</label>
 		</h4>
 		<h4>
 			<label id="password" class="label">Password:</label> <input
