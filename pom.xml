@@ -3,7 +3,7 @@
   http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mindtree.awsfinalpresentation.controller</groupId>
-	<artifactId>PresentationMarch08inEC2</artifactId>
+	<artifactId>VehiclePresentation</artifactId>
 	<packaging>war</packaging>
 	<version>01</version>
 	<name>${project.artifactId}</name>
