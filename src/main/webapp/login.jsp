@@ -60,7 +60,7 @@
 	<div id="errormessage"></div>
 	<form name="form" method="post" action="nowvalidate.ren"
 		onsubmit="return validate()">
-
+ 
 		<div id="login_head">
 			<h2>Login</h2>
 		</div>
