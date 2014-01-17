@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <br/>
-<h1 style="color: #C71585">Welcome to the demo: Vehicle Rental Application</h1>
+<h1 style="color: #C71585">Welcome to the demo: Vehicle Rental Application. Welcome again and enjoy the stay!</h1>
 
 <br/>
 <br/>
