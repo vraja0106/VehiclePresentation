@@ -16,7 +16,8 @@
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue...</h3></a> <br/>
 		
-		Changed to Show new page. Adding another text to see what happens.
+		Changed to Show new page. Adding another text to see what happens.<br/>
+		<h1>Okay.. Seems this is working</h1>
 	</center>
 </body>
 </html>
