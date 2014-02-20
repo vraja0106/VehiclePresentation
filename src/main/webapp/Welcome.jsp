@@ -16,7 +16,7 @@
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue...</h3></a> <br/>
 		
-		Changed to Show new page.
+		Changed to Show new page. Adding another text to see what happens.
 	</center>
 </body>
 </html>
