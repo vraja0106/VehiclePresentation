@@ -17,7 +17,7 @@
 		<dependency>
 			<groupId>taglibs</groupId>
 			<artifactId>standard</artifactId>
-			<version>1.1.2</version>
+			<version>1.1.1</version>
 		</dependency>
 
 		<!-- Log4j dependency -->
