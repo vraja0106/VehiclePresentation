@@ -16,7 +16,7 @@
 			Application.</h1>
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue...</h3></a> <br />
-		Test Change
+
 		<h1>Version 1.1.5</h1>
 	</center>
 </body>
