@@ -243,10 +243,6 @@
 							<name>vikesh-vehicle-rental/presentation/${project.version}</name>
 							<value>**/target/*.war;public-read</value>
 						</property>
-						<property>
-							<name>vikesh-vehicle-rental/presentation/latest</name>
-							<value>**/target/*.war;public-read</value>
-						</property>
 					</buckets>
 				</configuration>
 			</plugin>
