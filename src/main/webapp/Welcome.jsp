@@ -5,7 +5,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome Prahlad</title>
+<title>Welcome Mani</title>
 </head>
 <body>
 
@@ -17,7 +17,7 @@
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue...</h3></a> <br />
 
-		<h1>Version 1.3.8</h1>
+		<h1>Version 1.3.9</h1>
 	</center>
 </body>
 </html>
