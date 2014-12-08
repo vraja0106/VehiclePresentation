@@ -3,7 +3,7 @@ FROM jayaram/mt-vr-env
 MAINTAINER M1019330
 
 # Location of presentation URL
-ADD VehiclePresentation.war /webapps 
+# ADD VehiclePresentation.war /webapps 
 
 ADD start_up.sh /
 
