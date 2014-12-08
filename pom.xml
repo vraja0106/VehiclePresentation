@@ -254,7 +254,7 @@
 			
 			-->
 			<!-- 
-			Spotify Plugin	
+			Spotify Plugin commented	
 			<plugin>
 			      <groupId>com.spotify</groupId>
 			      <artifactId>docker-maven-plugin</artifactId>
