@@ -5,15 +5,14 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome Marriott</title>
+<title>Welcome to Mindtree</title>
 </head>
 <body>
 
 	<center>
 		<br /> <br /> <img alt="" src="img/logo2.jpg"> <br /> <br />
 		<br />
-		<h1 style="color: #C71585">Welcome to the demo: Vehicle Rental
-			Application.</h1>
+		<h1 style="color: #C71585">Welcome to the demo: Vehicle Rental Application.</h1>
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue...</h3></a> <br />
 
