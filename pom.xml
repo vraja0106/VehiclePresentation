@@ -5,7 +5,7 @@
 	<groupId>com.mindtree.awsfinalpresentation.controller</groupId>
 	<artifactId>VehiclePresentation</artifactId>
 	<packaging>war</packaging>
-	<version>1.5.3</version>
+	<version>1.5.4</version>
 	<name>${project.artifactId}</name>
 	<pluginRepositories>
 	<pluginRepository>
@@ -306,7 +306,7 @@
 						</artifact>
 					      </artifacts>
 					<nameAndTag>vraja0106/mt-mvn-vr-presentation:${project.version}</nameAndTag>
-					<registry>registry.hub.docker.com</registry>
+					<!--<registry>registry.hub.docker.com</registry>-->
 					<push>true</push>
 				    </image>
 				  </images>
