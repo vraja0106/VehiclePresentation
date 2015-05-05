@@ -14,7 +14,7 @@
 		<br />
 		<h1 style="color: #C71585">Welcome to the demo: Vehicle Rental Application</h1>
 
-		<br /> <br /> <a href="index.jsp"><h3>Continue....</h3></a> <br />
+		<br /> <br /> <a href="index.jsp"><h3>Continue...</h3></a> <br />
 
 		<h1>Version 1.5.4</h1>
 	</center>
