@@ -12,11 +12,11 @@
 	<center>
 		<br /> <br /> <img alt="" src="img/logo2.jpg"> <br /> <br />
 		<br />
-		<h1 style="color: #C71585">Welcome to CI and CD Integration demo: Vehicle Rental Application</h1>
+		<h1 style="color: #C71585">Welcome to the demo: Vehicle Rental Application</h1>
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue....</h3></a> <br />
 
-		<h1>Version 1.5.10</h1>
+		<h1>Version 1.5.11</h1>
 	</center>
 </body>
 </html>
