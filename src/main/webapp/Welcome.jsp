@@ -5,7 +5,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome to Mindtree Demo-test</title>
+<title>Welcome to Mindtree Demo for Testing</title>
 </head>
 <body>
 
